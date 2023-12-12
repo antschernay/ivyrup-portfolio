@@ -1,0 +1,29 @@
+{
+    "about": "About",
+    "services": "Services",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "gallery": "Gallery",
+    "language": "EN",
+    "intro_text": {
+        "1": "A professional make-up for every occasion",
+        "2": "Let your beauty shine"
+    },
+    "about_info": {
+        "1": "My name is Ivana, and I specialize in make-up. I started by completing various courses and I found myself in this field. I really enjoy this work, and it motivates me to continually educate myself and follow new trends.",
+        "2": "When applying makeup, I use tested and high-quality products from professional brands. I would be happy to do your make-up for any occasion, such as wedding, celebration, ball, graduation, or photoshoot.",
+        "3": "I mostly work as a mobile make-up artist, which means I am happy to come and do your make-up directly at your home. It saves you time in preparation, and I get to explore new places."
+    },
+    "make-up": "Make-up",
+    "procedures": "Beauty Treatments",
+    "in_preparation": "In preparation",
+    "instagram": "Follow me on Instagram, send a DM",
+    "facebook": "Get in touch on Facebook",
+    "location": "Location to be agreed upon",
+    "orava": "Orava and surroundings",
+    "telephone": "Book an appointment by phone",
+    "email": "Contact me via email"
+    
+        
+    
+}

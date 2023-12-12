@@ -1,0 +1,27 @@
+{
+    "about": "O mne",
+    "services": "Služby",
+    "reviews": "Recenzie",
+    "contact": "Kontakt",
+    "gallery": "Galéria",
+    "language": "SK",
+    "intro_text": {
+        "1": "Profesionálny make-up na každú príležitosť",
+        "2": "Nechajte svoju krásu vyniknúť"
+    },
+    "about_info": {
+        "1": "Volám sa Ivana a venujem sa vizáži. Začala som absolvovaním rôznych kurzov a školení a v tejto oblasti som sa našla, veľmi ma táto práca baví a to ma motivuje, aby som sa stále ďalej vzdelávala a sledovala nové trendy.",
+        "2": "Pri líčení používam overené a kvalitné produkty profesionálnych značiek. Rada Vás nalíčim na akúkoľvek príležitosť, ako napríklad, svadba, oslava, ples, stužková či fotenie.",
+        "3": "Väčšinou pracujem ako mobilná vizážistka, čo znamená, že Vás rada prídem nalíčiť priamo domov. Ušetrí Vám to čas pri prípravách a ja zasa spoznám nové miesta."
+    },
+    "make-up": "Líčenie",
+    "procedures": "Kozmetické úkony",
+    "in_preparation": "Pripravujeme",
+    "instagram": "Sledujte ma na Instagrame, pošlite DM",
+    "facebook": "Spojte sa so mnou na Facebooku",
+    "location": "Lokalita dohodou",
+    "orava": "Orava a okolie",
+    "telephone": "Objednjte sa telefonicky",
+    "email": "Kontaktuje ma prostredníctvom emailu"
+   
+}

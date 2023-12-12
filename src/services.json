@@ -1,0 +1,62 @@
+{"makeup": {
+    "SK": [
+        {
+            "name": "Denné líčenie",
+            "description": "Jemné, prirodzené, vhodné na bežné nosenie",
+            "price": "20€"
+        },
+        {
+            "name": "Večerné líčenie ",
+            "description": "Výrazné, intenzívne, vhodné na slávnostné príležitosti",
+            "price": "25€"
+        },
+        {
+            "name": "Svadobné líčenie",
+            "description": "Elegantné, dlhotrvajúce, odolné voči vonkajším faktorom",
+            "price": "30€"
+        }
+
+    ],
+    "EN": [
+        {
+            "name": "Soft make-up",
+            "description": "Subtle, natural, suitable for everyday wear",
+            "price": "20€"
+        },
+        {
+            "name": "Evening make-up",
+            "description": "Bold, intense, suitable for festive occasions",
+            "price": "25€"
+        },     
+        {
+            "name": "Wedding make-up",
+            "description": "Elegant, long-lasting, resistant to external factors",
+            "price": "30€"
+        }
+    ]
+},
+"procedures":
+{
+    "SK": [
+        {
+            "name": "Úprava a farbenie obočia",
+            "price": "7€"
+        },
+        {
+            "name": "Farbenie mihalníc",
+            "price": "5€"
+        }    
+    ],
+    "EN": [
+        {
+            "name": "Shaping and coloring eyebrows",
+            "price": "7€"
+        },
+        {
+            "name": "Eyelash tinting",
+            "price": "5€"
+        }
+    ]
+}
+    
+}
