@@ -81,10 +81,10 @@ const Navigation = ({t, languages}) => {
          }
 
           
-<div className={`h-screen bg-neutral-50 fixed z-50 transition-all duration-500 ease-in-out ${menuIsShown ? 'opacity-100' : 'opacity-0'} ${menuIsShown ? 'w-1/2' : 'w-0'}`}>
+<div className={`h-screen bg-neutral-50 fixed z-50 transition-all duration-500 ease-in-out ${menuIsShown ? 'opacity-100' : 'opacity-0'} ${menuIsShown ? 'w-2/3' : 'w-0'}`}>
 
            
-             <ul className="text-xl cursor-pointer items-center text-neutral-500 font-semibold px-5">
+             <ul className="text-xl cursor-pointer items-center text-neutral-500 px-5">
                 <li className="mb-36 mt-5 hover:text-rose-700" onClick={()=> {setMenuIsShown(!menuIsShown); setShowLanguages(false)}}>
                     <FontAwesomeIcon className='text-xl' icon={faXmark} />
                 </li>
