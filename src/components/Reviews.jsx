@@ -14,7 +14,7 @@ const Reviews = ({t}) => {
             <section className="flex  items-center justify-center py-16" id='gallery'>
             <div className="w-4/5">
               <h1 className="text-4xl text-center font-bold text-slate-700">{t('gallery')}</h1>
-              <div className="flex flex-wrap justify-center gap-4 text-xl text-slate-800 pt-16 items-center">
+              <div className="flex flex-wrap justify-center text-xl text-slate-800 pt-16 items-center">
 
                 <div className=" w-96 shadow-md shadow-rose-200 rounded-xl m-2 overflow-hidden">
                   <img src={model1} alt='a woman with make up' className='rounded-md hover:transform hover:scale-115 duration-500 cursor-pointer'/>
