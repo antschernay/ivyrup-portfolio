@@ -13,9 +13,9 @@ const Services = ({t}) => {
 
     return (
 
-      <section className="flex flex-col items-center justify-center py-32 " id='services'>
+      <section className="flex items-center justify-center py-32 " id='services'>
       <div className="w-4/5">
-        <h1 className="text-4xl place-self-start text-slate-700 my-5 font-bold">{t('services')}</h1>
+        <h1 className="text-4xl text-center text-slate-700 my-5 font-bold">{t('services')}</h1>
         <div className='flex justify-center mt-16 text-slate-700'>
          <article className='sm:w-11/12 md:w-4/5 lg:w-2/3'>
           <div className=''>
