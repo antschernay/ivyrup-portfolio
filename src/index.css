@@ -5,13 +5,13 @@
 
 @font-face {
   font-family: 'Dosis';
-  src: url('./assets/font-dosis/Dosis-VariableFont_wght.ttf') format('woff2');
+  src: url('./assets/fonts/font-dosis/Dosis-VariableFont_wght.ttf') format('woff2');
 }
 
 
 @font-face {
   font-family: 'Sacramento';
-  src: url('./assets/Sacramento/Sacramento-Regular.ttf') format('woff2');
+  src: url('./assets/fonts/Sacramento/Sacramento-Regular.ttf') format('woff2');
 }
 
 
@@ -24,12 +24,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Dosis';
+  overflow-x: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
 
 .logo {
   font-family: 'Sacramento';
@@ -42,6 +40,7 @@ h1 {
 
 .intro {
   background-image: url('assets/img/background2.jpg');
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 1000px) {

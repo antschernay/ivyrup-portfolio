@@ -3,7 +3,7 @@ const Intro = ({t}) => {
 
     return (
        
-        <section className="flex justify-around mb-10 items-center pt-16 w-scrren h-screen intro">
+        <section className="flex justify-around items-center pt-16 w-scrren h-screen intro bg-cover bg-center">
             <div></div>
             <div className='w-96 ml-16'>
                 <p className='logo text-7xl my-3'>

@@ -32,6 +32,10 @@
             "name": "Wedding make-up",
             "description": "Elegant, long-lasting, resistant to external factors",
             "price": "30€"
+        }, {
+            "name": "Wedding make-up",
+            "description": "Elegant, long-lasting, resistant to external factors",
+            "price": "30€"
         }
     ]
 },
@@ -45,7 +49,19 @@
         {
             "name": "Farbenie mihalníc",
             "price": "5€"
-        }    
+        },   
+        {
+            "name": "Depilácia hornej pery",
+            "price": "5€"
+        },  
+        {
+            "name": "Balíček: farbenie mihalníc + obočie + depilácia",
+            "price": "15€"
+        },
+        {
+            "name": "Kozmetická masáž tváre",
+            "price": "15€"
+        } 
     ],
     "EN": [
         {
@@ -55,7 +71,19 @@
         {
             "name": "Eyelash tinting",
             "price": "5€"
-        }
+        },
+        {
+            "name": "Upper lip hair removal",
+            "price": "5€"
+        },  
+        {
+            "name": "Bundle: eyelash tinting + eyebrows + upper lip hair removal",
+            "price": "15€"
+        },
+        {
+            "name": "Cosmetic facial massage",
+            "price": "15€"
+        } 
     ]
 }
     
